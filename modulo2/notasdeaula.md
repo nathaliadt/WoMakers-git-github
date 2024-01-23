@@ -10,4 +10,4 @@ git add [caminho do arquivo]
 
 
 
-### git commit
+### git commit .
