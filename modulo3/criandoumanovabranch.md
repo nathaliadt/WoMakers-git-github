@@ -6,6 +6,6 @@ para voltar para a branch anterior, usa o mesmo comando
 
 --
 Para verificar quantas branch temos:
-git branch
+git branch.
 
 
