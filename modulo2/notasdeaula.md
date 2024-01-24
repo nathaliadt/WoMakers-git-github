@@ -14,5 +14,5 @@ git add [caminho do arquivo]
 
 
 
-## remote v
+## git remote -v
 com esse comando posso saber qual diretorio remoto estou atualmente.
