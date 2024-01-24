@@ -11,3 +11,8 @@ git add [caminho do arquivo]
 
 
 ### git commit .
+
+
+
+## remote v
+com esse comando posso saber qual diretorio remoto estou
